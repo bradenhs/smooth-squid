@@ -7,7 +7,7 @@
 </p>
 <br/>
 <h1 align="center">Smooth Squid</h1>
-<p align="center"><b>This is a Zilch bot</b> · <b>Game</b> <a href="https://zilch.dev/games/tic-tac-toe">Tic-Tac-Toe</a> · <b>Language</b> <a href="https://zilch.dev/languages/http">HTTP</a>
+<p align="center"><b>This is a Zilch bot</b> · <b>Game</b> <a href="https://zilch.dev/games/tic-tac-toe">Tic-Tac-Toe</a> · <b>Bot Type</b> <a href="https://zilch.dev/languages/http">HTTP</a>
 </p>
 <br/>
 

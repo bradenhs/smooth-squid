@@ -2,10 +2,11 @@
   "avatar": "k5sorsab3eONeG",
   "gameId": "tic-tac-toe",
   "id": "8d02a586-f126-4fb3-a964-5df8642e48a6",
-  "configLastModified": "2022-07-15T02:10:11.495Z",
+  "configLastModified": "2022-07-15T03:08:32.539Z",
   "languageVariantId": "http-0",
   "name": "Smooth Squid",
   "configVersion": 1,
   "preferredColor": "violet",
-  "localUrl": "http://localhost:4321/"
+  "localUrl": "http://localhost:4321/",
+  "publicUrl": "http://zilch.dev/"
 }
